@@ -1,2 +1,3 @@
 # TCC-ETEC
-TCC-Software para clinicas veterinárias: AllPets, gerenciamento e administração de todos os documentos utilizados em clinicas veterinárias. 
+TCC-Software para clinicas veterinárias: AllPets.
+O software para desktop foi criado visando auxiliar as clínicas veterinárias, com as necessidades de administração e cadastramento dos animais de estimação. Baseado nas pesquisas realizadas em algumas clinicas do município, foi adquirido dados de extrema importância, tendo em mente alguns problemas recorrentes, como problemas com fichas médicas e perda de carteiras de vacinação do animal, foi elaborado um programa que auxiliasse no cotidiano administrativo das clinicas. O software abrange áreas como, administração do médico veterinário, recepcionista, cadastramento de animais, prontuário dos pets com próximas consultas, vacinas, exames e remédios. 
